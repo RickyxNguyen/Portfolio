@@ -2,7 +2,7 @@
   "name": "personalportfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rickyxnguyen.github.io/",
+  "homepage": "https://rickyxnguyen.github.io/Portfolio",
 
   "dependencies": {
     "gh-pages": "^2.0.1",
