@@ -2,9 +2,9 @@
   "main": {
     "name":"Ricky Nguyen",
     "occupation":"Web Developer",
-    "description":"React.js Developer that is always looking to improve his skills because you can never really know everything",
+    "description":"Developer that specializes in React.js and is always looking to improve his skills because you can never really know everything",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"I am accustomed with HTML/CSS, Photoshop, Git, SQL, MongoDB, Firebase, and various other technologies ",
     "contactmessage":"Ask me any questions that you have about me!",
     "email": "rickyxnguyen@gmail.com",
     "phone": "214-797-2676",
