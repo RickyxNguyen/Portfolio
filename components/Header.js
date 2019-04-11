@@ -1,13 +1,11 @@
 import PropTypes from 'prop-types';
-import FontAwesomeIcon from '@fortawesome/react-fontawesome'
-import faGem from '@fortawesome/fontawesome-free-regular/faGem'
 
 const Header = (props) => (
     <header id="header" style={props.timeout ? {display: 'none'} : {}}>
         <div className="logo">
             {/*<span className="icon fa-diamond"></span>*/}
-            <FontAwesomeIcon icon={faGem} transform="grow-18" />
-        </div>
+            <img src="/static/images/logo.png" style = {{width:75, height:75,marginTop:10}} alt="" />        
+            </div>
         <div className="content">
             <div className="inner">
                 <h1>Developer Portfolio</h1>
