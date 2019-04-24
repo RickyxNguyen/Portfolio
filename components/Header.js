@@ -4,7 +4,7 @@ const Header = (props) => (
     <header id="header" style={props.timeout ? {display: 'none'} : {}}>
         <div className="logo">
             {/*<span className="icon fa-diamond"></span>*/}
-            <img src="/static/images/logo.png" style = {{width:75, height:75,marginTop:10}} alt="" />        
+            <img src="/static/images/logo.png" width="80%" height="80%" style={{ marginTop:10 }} alt="" />        
             </div>
         <div className="content">
             <div className="inner">

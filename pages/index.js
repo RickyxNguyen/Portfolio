@@ -74,6 +74,7 @@ class IndexPage extends React.Component {
                 <div>
                     <Head>
                         <title>Ricky Nguyen</title>
+                        <meta name="viewport" content="width=device-width, initial-scale=1" />
                         <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,600,600i" rel="stylesheet" />
                         <link rel="shortcut icon" type="image/x-icon" href="/static/favicon.ico" />
                     </Head>
