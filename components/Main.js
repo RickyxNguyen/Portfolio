@@ -16,7 +16,7 @@ class Main extends React.Component {
         <article id="about" className={`${this.props.article === 'about' ? 'active' : ''} ${this.props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
           <h2 className="major">About</h2>
           <span className="image main"><img src="/static/images/pic01.jpg" alt="" /></span>
-          <p>I'm a Dallas-Fort Worth based Web Developer. Developer that specializes in React.js and is always looking to improve his skills because you can never really know everything.</p>
+          <p>I'm a Dallas-Fort Worth based Web Developer that specializes in React.js and is always looking to improve his skills because you can never really know everything.</p>
           <p><a href="//drive.google.com/file/d/1gTP-rt6dBTsKLQUAKtebnofxdeAnLGJq/view?usp=sharing" target='_blank' rel='noopener noreferrer'>Resume Download</a> </p>
           {close}
         </article>
@@ -24,7 +24,7 @@ class Main extends React.Component {
         <article id="work" className={`${this.props.article === 'work' ? 'active' : ''} ${this.props.articleTimeout ? 'timeout' : ''}`} style={{display:'none'}}>
           <h2 className="major">Work</h2>
           <span className="image main"><img src="/static/images/pic02.jpg" alt="" /></span>
-          <h1>noj</h1>
+          <h2>noj</h2>
           <ul>
           <li>Styled using Reactstrap/Boostrap</li>
           <li>Authentication and User Information stormed and encrypted with Firebase</li>
